@@ -1,0 +1,16 @@
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\EmployeesLoadingData.Plugin.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\EmployeesLoadingData.Plugin.pdb
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\EmployeesLoader.Plugin.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\EmployeesViewer.Plugin.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\Newtonsoft.Json.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\NLog.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\PhoneApp.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\EmployeesViewer.Plugin.pdb
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\Newtonsoft.Json.xml
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\NLog.xml
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\PhoneApp.pdb
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\bin\Debug\PhoneApp.dll.config
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\obj\Debug\EmployeesLoadingData.Plugin.csproj.CoreCompileInputs.cache
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\obj\Debug\EmployeesLoadingData.Plugin.csproj.CopyComplete
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\obj\Debug\EmployeesLoadingData.Plugin.dll
+D:\Основные папочки\Основное\Работа\EmployeesLoadingData.Plugin\EmployeesLoadingData.Plugin\obj\Debug\EmployeesLoadingData.Plugin.pdb
